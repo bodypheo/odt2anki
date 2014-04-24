@@ -21,6 +21,5 @@ Probably it is not useful for anybody but it can be useful to see how manipulate
 This is my first script on python after doing the google course. So it is everything a mess.
 
 To-do
-Detectar todas las tablas que haya en el documento. Y crear un tag con el nombre de la tabla.
-
+Add error control
 
